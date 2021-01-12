@@ -144,6 +144,7 @@ nvarchar
 nvm
 oauth
 OAuth
+octokit
 oidc
 okta
 Okta
