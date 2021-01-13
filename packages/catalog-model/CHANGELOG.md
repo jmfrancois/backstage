@@ -1,5 +1,12 @@
 # @backstage/catalog-model
 
+## 0.6.1
+
+### Patch Changes
+
+- f3b064e1c: Export the `schemaValidator` helper function.
+- 147fadcb9: Add subcomponentOf to Component kind to represent subsystems of larger components.
+
 ## 0.6.0
 
 ### Minor Changes

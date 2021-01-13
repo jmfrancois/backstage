@@ -1,5 +1,17 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.4.1
+
+### Patch Changes
+
+- 711ba55a2: Export all preparers and publishers properly
+- Updated dependencies [466354aaa]
+- Updated dependencies [f3b064e1c]
+- Updated dependencies [147fadcb9]
+  - @backstage/integration@0.2.0
+  - @backstage/catalog-model@0.6.1
+  - @backstage/backend-common@0.4.3
+
 ## 0.4.0
 
 ### Minor Changes

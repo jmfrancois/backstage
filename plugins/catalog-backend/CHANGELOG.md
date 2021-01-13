@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-backend
 
+## 0.5.3
+
+### Patch Changes
+
+- ade6b3bdf: AWS SDK version bump for Catalog Backend.
+- 147fadcb9: Add subcomponentOf to Component kind to represent subsystems of larger components.
+- Updated dependencies [f3b064e1c]
+- Updated dependencies [147fadcb9]
+  - @backstage/catalog-model@0.6.1
+  - @backstage/backend-common@0.4.3
+
 ## 0.5.2
 
 ### Patch Changes

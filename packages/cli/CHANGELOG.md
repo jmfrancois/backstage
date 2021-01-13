@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.4.6
+
+### Patch Changes
+
+- 9cf71f8bf: Added experimental `create-github-app` command.
+
 ## 0.4.5
 
 ### Patch Changes
